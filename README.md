@@ -2,16 +2,16 @@
 
 ## 注意事項
 
-* 同學們如果有程式的問題要提問，請在[Issues](https://github.com/joshhu/sculinebot20242nd/issues)上提問，並且提供程式碼，錯誤訊息，以及問題描述，這樣才能夠幫你解決問題。請參考[這邊](https://github.com/joshhu/sculinebot2024/issues/10)的提問格式，謝謝。
+* 程式問題提問，請在[Issues](https://github.com/joshhu/sculinebot20242nd/issues)上提問，並且提供程式碼，錯誤訊息，以及問題描述，參考[這邊](https://github.com/joshhu/sculinebot2024/issues/10)的提問格式。
 * Colab上的密鑰名稱為求符合PEP命名標準，統一使用下列格式：
     - LINE的Channel secret：`LINE_CHANNEL_SECRET`
     - LINE的Channel access token：`LINE_CHANNEL_ACCESS_TOKEN`
     - Ngrok的authtoken：`NGROK_AUTHTOKEN`
     - OpenAI的API key：`OPENAI_API_KEY`
 * 安裝miniconda，並且建立虛擬環境，MacOS參考[這邊](https://github.com/joshhu/sculinebot2024/issues/1)，Windows 10/11參考[這邊](https://github.com/joshhu/sculinebot2024/issues/3)
-* 建立虛擬環境，並且安裝好套件。MacOS同學參考[這邊](https://github.com/joshhu/sculinebot2024/issues/2)，Windows 10/11參考[這邊](https://github.com/joshhu/sculinebot2024/issues/4)
+* 建立虛擬環境，並且安裝好套件。MacOS參考[這邊](https://github.com/joshhu/sculinebot2024/issues/2)，Windows 10/11參考[這邊](https://github.com/joshhu/sculinebot2024/issues/4)
 * 如果是本機執行，請設定好幾個環境變數，參考[這邊](https://github.com/joshhu/sculinebot2024/issues/8)。
-* 如果已經安裝Anaconda的同學，參考[這邊](https://github.com/joshhu/sculinebot2024/issues/5)
+* 如果已經安裝Anaconda的，參考[這邊](https://github.com/joshhu/sculinebot2024/issues/5)
 
 ## 課前準備
 1. Google帳號，在Colab上執行程式
@@ -46,7 +46,7 @@
 - 2024/12/12
 
 ## 線上互動Slido連結
- 本課程Slido互動平台：()
+ 本課程Slido互動平台：(https://app.sli.do/event/baDVeTLWj31KQuuzybqgdq)
  
 ## 教材內容
 - `Codes`: 課程範例程式
