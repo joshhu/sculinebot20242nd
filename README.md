@@ -15,7 +15,7 @@
 * 建立虛擬環境，並且安裝好套件。MacOS參考[這邊](https://github.com/joshhu/sculinebot2024/issues/2)，Windows 10/11參考[這邊](https://github.com/joshhu/sculinebot2024/issues/4)
 * 如果是本機執行，請設定好幾個環境變數，參考[這邊](https://github.com/joshhu/sculinebot2024/issues/8)。
 * 如果已經安裝Anaconda的，參考[這邊](https://github.com/joshhu/sculinebot2024/issues/5)
-* Colab上的密鑰名稱為求符合PEP命名標準，統一使用下列格式：
+* 密鑰名稱為求符合PEP命名標準，統一使用下列格式：
     - LINE的channel secret：`LINE_CHANNEL_SECRET`
     - LINE的channel access token：`LINE_CHANNEL_ACCESS_TOKEN`
     - Ngrok的authtoken：`NGROK_AUTHTOKEN`
