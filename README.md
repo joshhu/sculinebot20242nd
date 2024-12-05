@@ -3,7 +3,7 @@
 ## 更新通知
 
 2024/12/05
-* conda設定有問題的同學，先參考[這邊](https://github.com/joshhu/sculinebot20242nd/issues/1
+* conda設定有問題的同學，先參考[這邊](https://github.com/joshhu/sculinebot20242nd/issues/1)
 
 2024/12/04
 * B班使用MacOS的同學，如果出現IPV6的問題，請重新下載本repo程式，重新執行試試看，謝謝
