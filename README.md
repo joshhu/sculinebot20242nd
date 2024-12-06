@@ -2,6 +2,13 @@
 
 ## 更新通知
 
+2024/12/06
+* 使用Windows 11的同學，如果你發現系統中有好幾個linebot環境，是因為vscode在安裝`ipykernel`時，會自動建立一個新的環境的問題，解決方法就是把你原來的`linebot`環境刪除，然後重新建立一個新的`linebot`環境，然後自己手動安裝`ipykernel`，使用指令為：
+```shell
+conda activate linebot
+pip install Flask pyngrok line-bot-sdk requests openai ipykernel
+```
+
 2024/12/05
 * conda設定有問題的同學，先參考[這邊](https://github.com/joshhu/sculinebot20242nd/issues/1)
 
