@@ -2,6 +2,9 @@
 
 ## 更新通知
 
+2024/12/09
+* Kyle同學發現在MacOS 11之後，系統中的`5000`port被佔用，參考[Slido](https://app.sli.do/event/baDVeTLWj31KQuuzybqgdq)，新版程式碼已經這次課程使用的port統一改成`5051`，請重新下載本repo程式。
+
 2024/12/06
 * 使用Windows 11的同學，如果你發現系統中有好幾個linebot環境，是因為vscode在安裝`ipykernel`時，會自動建立一個新的環境的問題，解決方法參考[這邊](https://github.com/joshhu/sculinebot20242nd/issues/2)
 
