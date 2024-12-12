@@ -2,6 +2,9 @@
 
 ## 更新通知
 
+2024/12/12
+* 本次課程最後一個作業，使用OpenAI或者其他AI模型，開發一個LINE Bot，使用手機拍下你和這個LINE Bot對話兩次的問答畫面，問答的問題要有連續性，要看出LINE Bot有記住上一個問題的結果。問題範例：「AI 請簡介東吳大學資科系」(LINE Bot回答.....)；「AI 系主任是誰？」(LINE Bot回答.....)。
+
 2024/12/09
 * Kyle同學發現在MacOS 11之後，系統中的`5000`port被佔用，參考[Slido](https://app.sli.do/event/baDVeTLWj31KQuuzybqgdq)，新版程式碼已經這次課程使用的port統一改成`5051`，請重新下載本repo程式。
 
